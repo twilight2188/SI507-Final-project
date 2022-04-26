@@ -1,9 +1,9 @@
 # SI507-Final-project
 ## Requirments
--json
--requests
--webbrowser
--ast
+- json
+- requests
+- webbrowser
+- ast
 ## Run The Main Program
 python3 final.py
 ## Edit the tree
