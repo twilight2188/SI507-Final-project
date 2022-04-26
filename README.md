@@ -12,3 +12,5 @@ python3 final.py
 ```
 python3 buildtree.py
 ```
+
+Api are supplied in rawg.py
