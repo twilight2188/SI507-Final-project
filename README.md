@@ -14,5 +14,5 @@ python3 buildtree.py
 ```
 
 API keys are supplied in rawg.py
-RAWG Video Games Database API: https://rawg.io/apidocs
-IGDB API: https://api-docs.igdb.com/#about
+- RAWG Video Games Database API: https://rawg.io/apidocs
+- IGDB API: https://api-docs.igdb.com/#about
