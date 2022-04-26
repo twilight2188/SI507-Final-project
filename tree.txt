@@ -1,0 +1,66 @@
+Internal node
+Are you playing on your PC/XBOX?
+Internal node
+Are you playing with your friend?
+Leaf
+{'name': 'It Takes Two', 'release_year': '2021', 'metacritic': 89, 'image': 'https://media.rawg.io/media/games/d47/d479582ed0a46496ad34f65c7099d7e5.jpg', 'rating': 89.9730272793496, 'summary': 'Embark on the craziest journey of your life in It Takes Two, a genre-bending platform adventure created purely for co-op. Invite a friend to join for free with Friendï¿½s Pass and work together across a huge variety of gleefully disruptive gameplay challenges. Play as the clashing couple Cody and May, two humans turned into dolls by a magic spell. Together, trapped in a fantastical world where the unpredictable hides around every corner, they are reluctantly challenged with saving their fractured relationship.', 'url': 'https://www.igdb.com/games/it-takes-two'}
+Internal node
+Do you consider yourself a pro gamer?
+Internal node
+Do you like platform games?
+Leaf
+{'name': 'Celeste', 'release_year': '2018', 'metacritic': 91, 'image': 'https://media.rawg.io/media/games/594/59487800889ebac294c7c2c070d02356.jpg', 'rating': 89.61575882504414, 'summary': 'Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.', 'url': 'https://www.igdb.com/games/celeste'}
+Leaf
+{'name': 'Elden Ring', 'release_year': '2022', 'metacritic': 96, 'image': 'https://media.rawg.io/media/games/5ec/5ecac5cb026ec26a56efcc546364e348.jpg', 'rating': 95.8543359076352, 'summary': 'Elden Ring is a fantasy, action and open world game with RPG elements such as stats, weapons and spells. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.', 'url': 'https://www.igdb.com/games/elden-ring'}
+Internal node
+Do you like solving puzzles?
+Leaf
+{'name': 'Portal 2', 'release_year': '2011', 'metacritic': 95, 'image': 'https://media.rawg.io/media/games/328/3283617cb7d75d67257fc58339188742.jpg', 'rating': 92.08395201817414, 'summary': "Sequel to the acclaimed Portal (2007), Portal 2 pits the protagonist of the original game, Chell, and her new robot friend, Wheatley, against more puzzles conceived by GLaDOS, an A.I. with the sole purpose of testing the Portal Gun's mechanics and taking revenge on Chell for the events of Portal. As a result of several interactions and revelations, Chell once again pushes to escape Aperture Science Labs.", 'url': 'https://www.igdb.com/games/portal-2'}
+Internal node
+Do you have interest in racing?
+Leaf
+{'name': 'Forza Horizon 5', 'release_year': '2021', 'metacritic': 92, 'image': 'https://media.rawg.io/media/games/082/082365507ff04d456c700157072d35db.jpg', 'rating': 90.24869432944524, 'summary': 'Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open-world landscapes of Mexico with limitless, fun driving action in hundreds of the worldï¿½s greatest cars.', 'url': 'https://www.igdb.com/games/forza-horizon-5'}
+Leaf
+{'name': 'Red Dead Redemption 2', 'release_year': '2018', 'metacritic': 96, 'image': 'https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg', 'rating': 93.35028850563404, 'summary': 'Red Dead Redemption 2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age.', 'url': 'https://www.igdb.com/games/red-dead-redemption-2'}
+Internal node
+Are you playing on your PlayStation?
+Internal node
+Do you want to relax?
+Internal node
+Do you like open world?
+Leaf
+{'name': "Marvel's Spider-Man", 'release_year': '2018', 'metacritic': 87, 'image': 'https://media.rawg.io/media/games/9aa/9aa42d16d425fa6f179fc9dc2f763647.jpg', 'rating': 88.80384674996475, 'summary': 'Starring the world’s most iconic Super Hero, Spider-Man features the acrobatic abilities, improvisation and web-slinging that the wall-crawler is famous for, while also introducing elements never-before-seen in a Spider-Man game. From traversing with parkour and utilizing the environment, to new combat and blockbuster set pieces, it’s Spider-Man unlike any you’ve played before.', 'url': 'https://www.igdb.com/games/marvels-spider-man'}
+Internal node
+Do you have enough time for a long story? 
+Leaf
+{'name': 'Persona 5', 'release_year': '2016', 'metacritic': 93, 'image': 'https://media.rawg.io/media/games/3ea/3ea0e57ede873970c0f1130e30d88749.jpg', 'rating': 93.2934138080272, 'summary': "Persona 5, a turn-based JRPG with visual novel elements, follows a high school student with a criminal record for a crime he didn't commit. Soon he meets several characters who share similar fates to him, and discovers a metaphysical realm which allows him and his friends to channel their pent-up frustrations into becoming a group of vigilantes reveling in aesthetics and rebellion while fighting corruption.", 'url': 'https://www.igdb.com/games/persona-5'}
+Leaf
+{'name': 'Journey', 'release_year': '2012', 'metacritic': 92, 'image': 'https://media.rawg.io/media/games/baf/baf9905270314e07e6850cffdb51df41.jpg', 'rating': 90.13731848228575, 'summary': 'A third-person adventure game in which the player, controlling a robed figure, makes a pilgrimage through a desert landscape to a rugged mountain with a beacon of light in the distance while uncovering the history of their people, rescuing and cooperating with friendly creatures, avoiding predatory ones and communicating with other travelers.', 'url': 'https://www.igdb.com/games/journey'}
+Internal node
+Do you consider story more important than gameplay?
+Leaf
+{'name': 'The Last Of Us', 'release_year': '2013', 'metacritic': 95, 'image': 'https://media.rawg.io/media/games/a5a/a5a7fb8d9cb8063a8b42ee002b410db6.jpg', 'rating': 93.88217777411546, 'summary': 'Set 5 years after the events of The Last of Us, we see the return of Joel and Ellie. Driven by hatred, Ellie sets out for Seattle to serve justice. However, she begins to wonder what justice really means.', 'url': 'https://www.igdb.com/games/the-last-of-us-part-ii'}
+Leaf
+{'name': 'God of War', 'release_year': '2018', 'metacritic': 94, 'image': 'https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg', 'rating': 95.3661720947774, 'summary': 'God of War is the sequel to God of War III as well as a continuation of the canon God of War chronology. Unlike previous installments, this game focuses on Norse mythology and follows an older and more seasoned Kratos and his son Atreus in the years since the third game. It is in this harsh, unforgiving world that he must fight to surviveï¿½ and teach his son to do the same.', 'url': 'https://www.igdb.com/games/god-of-war--1'}
+Internal node
+Are you playing on your Nintendo Switch?
+Internal node
+Do you like platform games?
+Leaf
+{'name': 'Super Mario Odyssey', 'release_year': '2017', 'metacritic': 97, 'image': 'https://media.rawg.io/media/games/267/267bd0dbc496f52692487d07d014c061.jpg', 'rating': 93.24747461223654, 'summary': 'Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities, like the power to capture and control objects, animals, and enemies to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowserï¿½s wedding plans!', 'url': 'https://www.igdb.com/games/super-mario-odyssey'}
+Internal node
+Do you consider story more important than gameplay?
+Internal node
+Do you like role playing games?
+Leaf
+{'name': 'Xenoblade Chronicles 2', 'release_year': '2017', 'metacritic': 83, 'image': 'https://media.rawg.io/media/games/a9a/a9a6055569c986a04d066b310ea57ebb.jpg', 'rating': 88.19737079137414, 'summary': "The next adventure is on the Nintendo Switch console set on the backs of colossal, living Titans. Discover each Titan's diverse regions, culture, wildlife, equipment, and hidden secrets. Find, bond with, and command weaponized life forms known as Blades to earn abilities and enhance them. Uncover the history of Alrest and the mystery of its endless ocean of clouds.", 'url': 'https://www.igdb.com/games/xenoblade-chronicles-2'}
+Leaf
+{'name': '13 Sentinels: Aegis Rim', 'release_year': '2019', 'metacritic': 85, 'image': 'https://media.rawg.io/media/games/be8/be8896348e804287dfd44323bac7380e.jpg', 'rating': 88.9047742501064, 'summary': 'Uncover the truth and delve into a 2D sidescrolling adventure featuring gorgeous art and environments. Then, battle the kaiju in fast-paced, top-down combat. Customize the Sentinels with an arsenal of mechsuit weaponry, and fight to defend humanity!', 'url': 'https://www.igdb.com/games/13-sentinels-aegis-rim'}
+Internal node
+Do you have interest in racing?
+Leaf
+{'name': 'Mario Kart 8', 'release_year': '2014', 'metacritic': 88, 'image': 'https://media.rawg.io/media/games/7df/7dfbdcb58a03fcddc68479454fc1f7de.jpg', 'rating': 89.11377610805795, 'summary': 'Turn your racing experience upside down! Nintendo’s Mario Kart franchise comes to the Wii U console in full HD, introducing new racing circuit designs and anti-gravity karts that will have players driving upside down. And for the first time, all of Bowser’s seven Koopalings are playable characters-- get a taste of being bad on the race track by playing as Iggy, Larry, Lemmy, Ludwig, Morton, Roy and Wendy. Players will also enjoy a variety of series-favorite features, including the return of 12-player online competitive play, hang-gliders, underwater racing and motorbikes.', 'url': 'https://www.igdb.com/games/mario-kart-8'}
+Leaf
+{'name': 'The Legend of Zelda: Breath of the Wild', 'release_year': '2017', 'metacritic': 97, 'image': 'https://media.rawg.io/media/games/cc1/cc196a5ad763955d6532cdba236f730c.jpg', 'rating': 94.83972272696695, 'summary': 'In this 3D open-world entry in the Zelda series, Link is awakened from a deep slumber without his past memories in the post-apocalyptic Kingdom of Hyrule, and sets off on a journey to defeat the ancient evil Calamity Ganon. Link treks, climbs and glides through fields, forests and mountain ranges while meeting and helping friendly folk and defeating enemies in order to gather up the strength to face Ganon.', 'url': 'https://www.igdb.com/games/the-legend-of-zelda-breath-of-the-wild'}
+Leaf
+{'name': 'Monument Valley', 'release_year': '2014', 'metacritic': 89, 'image': 'https://media.rawg.io/media/games/158/158e3d88feea5b59bd8c48205a37e341.jpg', 'rating': 82.7700945728908, 'summary': 'In Monument Valley, the player leads the player-character princess Ida through mazes of optical illusions and impossible objects, which are referred to as "sacred geometry" in-game, as she journeys to be forgiven for something. The game is presented in isometric view, and the player interacts with the environment to find hidden passages as Ida progresses to the map\'s exit. Each of the ten levels has a different central mechanic. Interactions include moving platforms and pillar animals, and creating bridges. The player is indirectly cued through the game by design elements like color, and directly cued by crow people, who block Ida\'s path. Critics compared the game\'s visual style to a vibrant M. C. Escher drawing and Echochrome. The game includes a camera mode where the player can roam the level to compose screenshots. It includes filters ï¿½ la Instagram.', 'url': 'https://www.igdb.com/games/monument-valley'}
