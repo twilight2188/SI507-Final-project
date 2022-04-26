@@ -6,5 +6,7 @@
 - ast
 ## Run The Main Program
 python3 final.py
+```
 ## Edit the tree
 python3 buildtree.py
+```
